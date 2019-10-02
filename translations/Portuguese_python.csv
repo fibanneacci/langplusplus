@@ -1,0 +1,48 @@
+Portuguese,python
+importar,import
+como,as
+de,from
+definir,def
+retorno,return
+volta,return
+global,global
+impressão,print
+imprimir,print
+ler,read
+escreva,write
+escrever,write
+abrir,open
+fechar,close
+inteiro,int
+cadeia,string
+texto,str
+flutuante,float
+sim,if
+ainda,else
+ou sim,elif
+e,and
+ou ,or
+não,not
+nisso,in
+em ,in 
+é,is
+Verdadeiro,True
+FALSO,False
+Nenhum,None
+Nada,None
+enquanto,while
+para,for
+lista,list
+elenco,list 
+Alcance,range
+intervalo,range
+comprimento,len
+classe,class
+auto,self
+mismo,self
+iniciar,init
+inicie,init
+tentar,try
+tenta ,try
+exceto,except
+exceção,except
