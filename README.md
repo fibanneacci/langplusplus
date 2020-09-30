@@ -25,8 +25,8 @@ Most widely-used programming languages are English-based, making the learning pr
     * As of now, lang++ supports 4 lang-prog lang combinations (Chinese, Spanish, and Japanese to C++, Chinese to Java, and Chinese to Swift)
  * Incorporate machine learning / natural language processing
     * Improve translation accuracy
-    * Consider context when suggesting autocompletions
-    * Better account for evolution/change of programming languages over time
+    * Consider context when suggesting autocompletes.
+    * Better account for evolution/change of programming languages overtime.
  * Potential to be expanded into plugins, extensions, etc.
     * Will better serve people looking for occasional language help
     * Could function similar to dictionary
@@ -35,7 +35,7 @@ See [issues](https://github.com/fibanneacci/langplusplus/issues) for detailed ta
 
 ## 🗒️ Instructions
 
-To see the online editor demo in action, follow these steps:
+To see the online editor demo in action, follow the steps below:
 
 ### ⬇️ Installation
 
