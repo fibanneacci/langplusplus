@@ -15,20 +15,17 @@ protegido,protected
 abstrato,abstract
 implemente,implement
 implementar,implement
-vazio,void
+sem_retorno,void
 instancia_de,instanceof
 int,int
 inteiro,int
-Cadeia,String
-Cadeia_de_caracteres,String
+Sequencia_de_caracteres,String
 caracter,char
 booleano,boolean
 duplo,double
-dobro,double
 longo,long
 extenso,long
 vetor,Array
-lista,Array
 lista,List
 curto,short
 pequeno,short
@@ -39,7 +36,6 @@ maximo,Math.max
 minimo,Math.min
 maximo_inteiro,Integer.MAX_VALUE
 minimo_inteiro,Integer.MIN_VALUE
-print,System.out.println
 exibir,System.out.println
 imprimir,System.out.println
 retornar,return
@@ -67,7 +63,7 @@ tente,try
 pegue,catch
 pegar,catch
 extender,extend
-herdar,extend
+herda,extends
 mapa,map
 jogar,throw
 soltar,throw
@@ -77,7 +73,7 @@ NULO,NULL
 novo,new
 pacote,package
 formato,format
-formatar,formar
+formatar,format
 pegue,get
 pegar,get
 obter,get
@@ -112,3 +108,8 @@ maior,>
 menor,<
 igual,==
 diferente,!=
+ordenar, sort()
+preencher, fill()
+metodo, method
+extensao, length()
+padrão, default
